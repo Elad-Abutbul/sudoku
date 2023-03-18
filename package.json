@@ -1,0 +1,21 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage" : "http://Elad-Abutbul.github.io/sudoku",
+  "scripts": {
+    "deploy" : "npm run build&&gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elad-Abutbul/sudoku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elad-Abutbul/sudoku/issues"
+  },
+  "homepage": "https://github.com/Elad-Abutbul/sudoku#readme"
+}
